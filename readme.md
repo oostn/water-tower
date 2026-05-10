@@ -18,7 +18,7 @@ Each software is used for a specific purpose to simulate a real-world multidisci
 
 ---
 
->> NB: Some features are yet to me modelled
+>> NB: Some features and components are yet to be modelled
 
 ## Software Used / to be used
 
