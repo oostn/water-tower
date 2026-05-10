@@ -18,6 +18,8 @@ Each software is used for a specific purpose to simulate a real-world multidisci
 
 ---
 
+>> NB: Some features are yet to me modelled
+
 ## Software Used / to be used
 
 ### 1. Autodesk Advanced Steel
@@ -61,3 +63,33 @@ Water-Tower/
 ├── Renders/
 │
 └── README.md
+```
+
+## Objectives
+- Practice multidisciplinary CAD workflows
+- Improve structural steel modelling skills
+- Combine multiple engineering software packages into one project
+
+## Features
+- Detailed steel support structure
+- Elevated cylindrical water tank
+- Pipe routing system
+
+## Preview
+> Coming soon
+
+## Skills Demonstrated
+- Structural drafting
+- 3D mechanical modelling
+- Steel detailing
+- Pipe routing
+- CAD assembly management
+- Multidisciplinary project coordination
+
+## Learning Goals
+
+This project was created to strengthen practical skills in:
+
+- Structural engineering modelling
+- Mechanical CAD assemblies
+- Engineering collaboration between software platforms
